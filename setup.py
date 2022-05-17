@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="simpweth",
     packages=["simpweth"],
-    version="0.0.1",
+    version="1.0.0",
     license='MIT',
     author="Mars Maps",
     author_email="m4rsm4ps@gmail.com",

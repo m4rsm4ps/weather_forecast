@@ -1,2 +1,8 @@
 venv
 .idea/
+/simpweth.egg-info/dependency_links.txt
+/simpweth.egg-info/PKG-INFO
+/simpweth.egg-info/requires.txt
+/dist/simpweth-0.0.1.tar.gz
+/simpweth.egg-info/SOURCES.txt
+/simpweth.egg-info/top_level.txt
